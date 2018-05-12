@@ -1,0 +1,34 @@
+_repo: The-Book-of-Life_38117
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38117-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2011-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love'
+- !lcsh 'Hygiene'
+- !lcsh 'Life'
+- !lcc 'BD'
+tableOfContents: 'Volume One: Mind and Body -- Volume Two: Love and Society'
+title: The Book of Life
+url: http://www.gutenberg.org/ebooks/38117
